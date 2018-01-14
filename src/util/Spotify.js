@@ -1,5 +1,5 @@
 const clientID = 'ffd3774e8c2f4d74bf7957c225beac86';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'schofield-jammmingproject.surge.sh';
 // 'schofield-jammmingproject.surge.sh'
 
 let accessToken;
